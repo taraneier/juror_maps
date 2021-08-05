@@ -1,0 +1,5 @@
+tests/_output
+vendor
+
+*.csv
+.DS_Store
